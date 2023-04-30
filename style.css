@@ -1,0 +1,40 @@
+h2,p{
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form{
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: cursive;
+    
+}
+ input{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: rgb(67, 64, 60);
+ }
+ *{
+    background-color: rgb(20, 12, 12);
+    color: bisque;
+ }
+
+ button{
+    background-color: rgb(145, 145, 10);
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    font-family: fantasy;
+    font: bolder;
+    colo
+ }
+
+ span{
+   margin-left: 680px;
+ }
